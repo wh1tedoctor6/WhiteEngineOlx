@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<item>
-  <version>2.0.8.13</version>https://github.com/wh1tedoctor6/WhiteEngine/blob/main/Version.xml
-  <url>https://github.com/wh1tedoctor6/WhiteEngineOlx/raw/main/WhiteEngine.exe</url>
-  <mandatory>true</mandatory>
-</item>
+{
+  "version": "1.0.0.1",
+  "url": "https://storage.googleapis.com/butanganan.loable.tech/updates/AutoUpdatedCoreSample/publish.zip",
+  "checksum": "asdfsdsdf",
+  "hash": "SHA512"
+}
