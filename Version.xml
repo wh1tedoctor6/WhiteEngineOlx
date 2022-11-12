@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>2.0.8.13</version>https://github.com/wh1tedoctor6/WhiteEngine/blob/main/Version.xml
-  <url>https://rbsoft.org/downloads/tiripii.zip</url>
-  <mandatory>false</mandatory>
+  <url>https://github.com/wh1tedoctor6/WhiteEngineOlx/raw/main/WhiteEngineOlx.zip</url>
+  <mandatory>true</mandatory>
 </item>
